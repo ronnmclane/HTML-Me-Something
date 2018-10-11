@@ -1,0 +1,81 @@
+.header {
+
+    font-size: 40pt; 
+
+    font-family: 'Lucida Sans';
+
+    text-align: center;
+
+    color: rgb(8, 8, 104);
+
+}
+
+body {
+
+    font-family: Lucida Sans;
+
+    font-size: 12pt;
+
+    margin: 100px;
+
+    background-image: url('images/hello.jpg');
+
+}    
+
+main {
+
+    background: rgb(245, 245, 245);
+
+    margin: 20px;
+
+    padding: 50px 50px 15px 50px;
+
+}
+
+.image{
+
+    text-align: center;
+
+    font-style: italic;
+
+}
+
+.image img{ 
+
+    height: 400px;
+
+    width: 600px;
+
+    text-align:center; 
+
+    margin:0 auto;
+
+}
+
+article { 
+
+   text-align: left;
+
+}
+
+#reference {
+
+    font-family: Verdana; 
+
+}
+
+a {
+
+    text-decoration: none;
+
+    color: rgb(12, 12, 151);
+
+}
+
+footer {
+
+    font-style: italic;
+
+    padding-top: 50px; 
+
+}    
